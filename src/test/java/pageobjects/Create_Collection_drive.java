@@ -54,6 +54,8 @@ public class Create_Collection_drive extends BasePage {
 	@FindBy(xpath = "//button[@id='nextStepBtn']") 
 	WebElement next_button;
 	
+	@FindBy(xpath = "//button[@id='nextStepBtn']") 
+	WebElement next_buttons;
 	
 	
 	public void launch_drive_button()  
@@ -92,12 +94,7 @@ public class Create_Collection_drive extends BasePage {
 		
 		select_launch_calender.sendKeys(enter_launch_date);
 
-        // Assuming you have a specific date you want to select, here's an example:
-      //  String targetDate = "03/31/2024";
-
-        // Locate the date element in the calendar and click on it
-      //  Assert.assertEquals(targetPage, expectedHeadingText, "Heading text does not match expected");
-       // select_launch_date.click();
+     
 	}
 	
         public void setEnd_date(String enter_end_date)   
