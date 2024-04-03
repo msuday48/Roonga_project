@@ -1,0 +1,56 @@
+12:47:47.766 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+12:47:48.660 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+12:47:48.945 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+12:50:59.078 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspaces\15-Sept-2023batch\opencart\mastersuite.xml"
+12:50:59.592 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\15-Sept-2023batch\opencart\mastersuite.xml
+
+12:51:03.573 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+12:51:03.575 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+12:51:03.772 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+12:51:04.409 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+12:51:04.409 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+12:51:07.949 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+12:51:08.016 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+12:51:08.020 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+12:51:08.020 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+12:51:10.212 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+12:51:10.213 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+12:51:10.435 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+12:51:10.925 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+12:51:10.930 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+12:51:11.668 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+12:51:11.874 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+13:01:12.992 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspaces\15-Sept-2023batch\opencart\mastersuite.xml"
+13:01:13.451 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\15-Sept-2023batch\opencart\mastersuite.xml
+
+13:01:17.377 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+13:01:17.378 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+13:01:17.593 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+13:01:18.168 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+13:01:18.172 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+13:01:19.171 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+13:01:19.301 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+07:14:26.834 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\OneDrive - AgilizTech Software Services Private Limited (1)\Desktop\opencart\crossbrowsertests.xml"
+07:14:27.147 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\OneDrive - AgilizTech Software Services Private Limited (1)\Desktop\opencart\crossbrowsertests.xml
+
+12:06:19.061 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\OneDrive - AgilizTech Software Services Private Limited (1)\Desktop\opencart\crossbrowsertests.xml"
+12:06:19.693 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\OneDrive - AgilizTech Software Services Private Limited (1)\Desktop\opencart\crossbrowsertests.xml
+
+12:06:47.383 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+12:06:47.384 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+12:06:49.186 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+12:06:59.420 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+12:07:05.314 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+12:07:05.314 [TestNG-tests-1] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+12:07:05.481 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+12:07:06.202 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+12:07:06.207 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+12:07:20.710 [TestNG-tests-1] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+12:09:50.460 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\OneDrive - AgilizTech Software Services Private Limited (1)\Desktop\opencart\crossbrowsertests.xml"
+12:09:51.047 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\OneDrive - AgilizTech Software Services Private Limited (1)\Desktop\opencart\crossbrowsertests.xml
+

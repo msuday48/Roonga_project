@@ -1,0 +1,42 @@
+12:09:56.006 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+12:09:56.022 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+12:09:56.218 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+12:09:57.102 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+12:09:57.102 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+12:10:07.266 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+12:10:11.847 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+12:10:11.850 [TestNG-tests-1] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+12:10:11.986 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+12:10:12.715 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+12:10:12.718 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+12:10:26.907 [TestNG-tests-1] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+12:12:54.706 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\OneDrive - AgilizTech Software Services Private Limited (1)\Desktop\opencart\crossbrowsertests.xml"
+12:12:55.310 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\OneDrive - AgilizTech Software Services Private Limited (1)\Desktop\opencart\crossbrowsertests.xml
+
+12:13:00.466 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+12:13:00.466 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+12:13:00.650 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+12:13:01.286 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+12:13:01.286 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+12:13:11.365 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+12:13:15.964 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+12:13:15.965 [TestNG-tests-1] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+12:13:16.769 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+12:13:31.126 [TestNG-tests-1] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+12:13:46.031 [TestNG-tests-1] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+12:17:54.997 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\OneDrive - AgilizTech Software Services Private Limited (1)\Desktop\opencart\crossbrowsertests.xml"
+12:17:55.594 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\OneDrive - AgilizTech Software Services Private Limited (1)\Desktop\opencart\crossbrowsertests.xml
+
+12:18:01.055 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+12:18:01.056 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+12:18:01.252 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+12:18:01.908 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+12:18:01.908 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+12:18:11.968 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+12:18:17.008 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+12:18:17.009 [TestNG-tests-1] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+12:18:18.398 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+12:18:33.112 [TestNG-tests-1] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+12:18:59.483 [TestNG-tests-1] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
